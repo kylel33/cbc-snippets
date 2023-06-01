@@ -1,0 +1,48 @@
+{
+  "tiles": [
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=home+page",
+      "deepLinkParam": "gem.cbc.ca"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=live+page",
+      "deepLinkParam": "gem.cbc.ca/live"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=show+detail+page+sort_of",
+      "deepLinkParam": "gem.cbc.ca/sort_of"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=show+detail",
+      "deepLinkParam": "gem.cbc.ca/brassic/s04"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=show+page+episode",
+      "deepLinkParam": "gem.cbc.ca/family_feud_canada/s04e03"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=show+page+autoPlay",
+      "deepLinkParam": "gem.cbc.ca/chivalry/s01e03?autoplay=1"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=category+shows",
+      "deepLinkParam": "gem.cbc.ca/category/shows"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=collection+must_watch_page",
+      "deepLinkParam": "gem.cbc.ca/collection/must_watch_page"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=account",
+      "deepLinkParam": "gem.cbc.ca/account"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=live+event",
+      "deepLinkParam": "gem.cbc.ca/live-event/939944003611"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=search+page",
+      "deepLinkParam": "gem.cbc.ca/search-url"
+    }
+  ]
+}
