@@ -1,0 +1,52 @@
+{
+  "tiles": [
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=home+page",
+      "deepLinkParam": "toutv.cbc.ca"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=live+page",
+      "deepLinkParam": "toutv.cbc.ca/live"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=catch+up+page",
+      "deepLinkParam": "toutv.cbc.ca/catchup"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=show+detail+page+stat",
+      "deepLinkParam": "toutv.cbc.ca/stat"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=show+detail+page+episode",
+      "deepLinkParam": "toutv.cbc.ca/les-mecs/s03"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=show+page+episode",
+      "deepLinkParam": "toutv.cbc.ca/les_enquetes_de_foyle/s01e03"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=show+page+autoPlay",
+      "deepLinkParam": "toutv.cbc.ca/la_facture/s25e03?autoplay=1"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=category+series",
+      "deepLinkParam": "toutv.cbc.ca/categorie/series"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=collection+personnalites",
+      "deepLinkParam": "toutv.cbc.ca/collection/personnalites"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=mon+Compte",
+      "deepLinkParam": "toutv.cbc.ca/mon-compte"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=live+alberta",
+      "deepLinkParam": "toutv.cbc.ca/live-event/38"
+    },
+    {
+      "imagePrimaryUrl": "https://via.placeholder.com/728x90.png?text=search+page",
+      "deepLinkParam": "toutv.cbc.ca/search-url"
+    }
+  ]
+}
